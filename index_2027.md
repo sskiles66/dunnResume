@@ -1,13 +1,13 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Sebastian Dunn's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Sebastian Dunn
+Software Developer | Computer Science Major | Technical Consultant
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="sebastiancdunn@gmail.com">sebastiancdunn@gmail.com</a>
+| <a href="github.com/axolmain">Github Portfolio</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -16,73 +16,50 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Bachelor's Degree in Computer Science__
+_Brigham Young University - Idaho, Rexburg, ID_
 
-- Full academic scholarship with 4.0 GPA
+- Minor: Data Science
+- GPA: 3.8
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+`Expected April 2024`
 
 ## Related Experience
 
-### Internships
+`August 2020 - Present`
+__Dunn Consulting__
+_Freelance contracting_
+- Created a full stack python web application to increase the efficiency of scraping and analyzing Real Estate information for lead generation by over 300%
+- Created 3 Spigot plugins in Java for Minecraft servers to minimize server stress
+- Working to find solutions with companies/individuals to automate and improve tasks
+with technology
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`May 2023 - August 2023`
+__Incoming - Software Engineering Intern__
+_Cadwell Industries Inc._
+- Using C# to produce back end software 
+- WPF design and development
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`January 2023 - April 2023`
+__Computer Science Volunteer Tutor__
+- Tutored over 10 students in introductory computer science courses
+- Helped students with assignments and projects
+- Specialized in Python and MySQL
+
+`August 2022 - March 2023`
+__Prime Student Campus Manager__
+_Riddle and Bloom | Amazon Prime Student_
+- Launched four events exhibiting Amazon Prime Student's diverse offerings, fostering improved campus growth
+- Generated weekly reports that effectively communicated the success and popularity of Amazon Prime Student among the student population
+- Elevated skillset in utilizing TikTok, marketing, event planning, and product communication, resulting in enhanced productivity and performance
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
