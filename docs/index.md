@@ -14,6 +14,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
 `2025-2027`
